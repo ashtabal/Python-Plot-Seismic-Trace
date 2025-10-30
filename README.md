@@ -1,1 +1,0 @@
-# Python-Plot-Seismic-Trace
